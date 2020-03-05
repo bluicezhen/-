@@ -1,8 +1,16 @@
 # Python 学习笔记
 
+> 参考书籍：[《Python Cookbook 中文版，第 3 版》](https://book.douban.com/subject/26381341/)
 
+- [Python 学习笔记](#python-----)
+  * [1. The zen of Python](#1-the-zen-of-python)
+  * [2. Python2与Python3的主要区别](#2-python2-python3-----)
+  * [3. Python标准库中有关字符串和文本的常用内容](#3-python-----------------)
+  * [4. Python标准库中有关数字、日期和时间的常用内容](#4-python-------------------)
+  * [5. Python标准库中有关数据结构与算法的常用内容](#5-python------------------)
+  * [6. Python标准库中有关加密、安全的常用内容](#6-python----------------)
 
-[TOC]
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## 1. The zen of Python
 
